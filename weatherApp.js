@@ -99,4 +99,4 @@ function refreshWeather(response) {
   let searchFormElement = document.querySelector("#search-city");
   searchFormElement.addEventListener("submit", handleSearchSubmit);
   
-  searchCity("Paris");
+  searchCity("Sydney");
